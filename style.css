@@ -90,7 +90,8 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url("images/Background Colorful.jpg") no-repeat;
+/*     background: url("images/Background Colorful.jpg") no-repeat; */
+    background: url("images/Background gif.gif") no-repeat;
     background-size: cover;
     background-position: center;
 }
